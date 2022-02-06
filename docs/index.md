@@ -1,4 +1,4 @@
-# Welcome to My Docs 0.1
+# Welcome to My Docs 0.2
 
 For full documentation visit [Docums](https://khanhduy1407.github.io/docums).
 
